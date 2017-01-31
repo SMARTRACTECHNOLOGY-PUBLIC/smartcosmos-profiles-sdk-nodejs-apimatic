@@ -1,0 +1,12 @@
+{
+  "name": "smartcosmosprofileslib",
+  "version": "2.0.0",
+  "description": "Profiles provides full transparency into supply chain and manufacturing metadata associated with all types of RFID transponders, setting a new standard in customer self-service. By providing both Web and Web Service access to supply chain metadata, customers are managing their RFID-enabled IP and technical data in a highly efficient manner",
+  "main": "./lib/index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "APIMATIC SDK Generator",
+  "dependencies": {
+    "request": "^2.55.0"
+  }
+}
